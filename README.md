@@ -9,3 +9,6 @@ Device consists of an Arduino Nano (other boards will work too) and an ESP8266. 
 ## Pictures of the inside
 <img src='https://imgur.com/XxVWJjI.png'></img>
 <img src='https://imgur.com/yJNNmqa.png'></img>
+
+## Notes
+- It has been around 10 months since I've installed it under my desk (10 months of continuous operation). The LED driver and the LED's themselves still perform perfectly well
