@@ -12,4 +12,4 @@ ESP8266: Firstly connects to the local network via WiFi. Then it connects to the
 <img src='https://imgur.com/yJNNmqa.png'></img>
 
 ## Notes
-- It has been around one and a half years since I've installed it under my desk. The LED driver and the LED's themselves still perform perfectly well
+- I've installed it under my desk, still works
